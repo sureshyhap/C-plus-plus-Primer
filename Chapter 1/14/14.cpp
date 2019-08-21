@@ -1,0 +1,6 @@
+/*
+  The for loop is more compact and clearly includes all things relevant
+  to the looping. However it is limited by the fact that the looping
+  variable included in the first part of the for loop is only accessible
+  within the for loop.
+ */

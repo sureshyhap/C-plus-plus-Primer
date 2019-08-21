@@ -1,0 +1,4 @@
+/*
+  If they are all equal the else block will never run.
+  If they are all different the inner if block will never run.
+ */
