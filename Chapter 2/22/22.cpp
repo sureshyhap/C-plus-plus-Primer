@@ -1,0 +1,4 @@
+/*
+  Tests whether p points to anything.
+  Tests whether the value that p points to is nonzero.
+ */

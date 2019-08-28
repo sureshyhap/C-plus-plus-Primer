@@ -1,0 +1,4 @@
+/*
+  Because a void pointer can point to any type but a long pointer
+  can only point to a long not an int.
+ */
