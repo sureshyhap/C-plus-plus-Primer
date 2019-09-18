@@ -1,0 +1,3 @@
+/*
+  Each entry in the table would have garbage values.
+ */

@@ -1,0 +1,4 @@
+/*
+  With raw cin whitespace acts as a separator of words but with
+  getline the newline character is the separator of lines.
+ */

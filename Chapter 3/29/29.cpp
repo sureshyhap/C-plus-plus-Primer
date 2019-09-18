@@ -1,0 +1,6 @@
+/*
+  It is very easy to make mistakes with arrays that are not handled as
+  cleanly as with the standard library vector type. Also it is of fixed
+  size. It cannot be assigned to another array. It has no helpful methods
+  because it is not a class.
+ */

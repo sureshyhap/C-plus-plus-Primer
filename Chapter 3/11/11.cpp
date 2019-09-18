@@ -1,0 +1,3 @@
+/*
+  No because you might end up changing a const variable.
+ */

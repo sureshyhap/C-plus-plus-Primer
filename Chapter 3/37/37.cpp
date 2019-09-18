@@ -1,0 +1,4 @@
+/*
+  It iterates over the ca character array and prints them. Bug though
+  because the pointer may end up being some garbage value past the end.
+ */
