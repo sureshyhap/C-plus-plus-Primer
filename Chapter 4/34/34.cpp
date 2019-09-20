@@ -1,0 +1,5 @@
+/*
+  a. to boolean
+  b. ival to float then the sum to double
+  c. cval to int and then the product to double
+ */

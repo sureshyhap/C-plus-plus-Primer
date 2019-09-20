@@ -1,0 +1,3 @@
+/*
+  It tests whether cp points to a string and whether that string is not empty.
+ */

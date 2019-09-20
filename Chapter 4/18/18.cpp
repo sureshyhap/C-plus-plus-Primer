@@ -1,0 +1,4 @@
+/*
+  It would skip the first element and run into an error at the end trying to
+  dereference the iterator passed the end.
+ */
