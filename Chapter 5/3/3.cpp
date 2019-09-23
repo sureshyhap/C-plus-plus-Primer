@@ -1,0 +1,11 @@
+#include <iostream>
+
+int main(int argc, char* argv[]) {
+  int sum = 0, val = 1;
+  // I think the other way was more readable
+  for (; val <= 10; sum +=val, ++val)
+    ;
+  std::cout << "Sum of 1 to 10 inclusive is "
+	    << sum << std::endl;
+  return 0;
+}

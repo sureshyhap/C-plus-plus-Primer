@@ -1,0 +1,3 @@
+/*
+  A statement that does nothing. It is useful as a placeholder where a statement is needed but the program logic does not call for one.
+ */
