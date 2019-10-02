@@ -1,0 +1,3 @@
+/*
+  No because the size of the string arguments are not known at compile time.
+ */

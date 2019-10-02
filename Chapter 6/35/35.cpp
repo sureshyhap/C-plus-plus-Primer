@@ -1,0 +1,3 @@
+/*
+  Because val is used in two places on that line and the order that they will be evaluated is undefined.
+ */

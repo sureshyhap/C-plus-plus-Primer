@@ -1,0 +1,3 @@
+/*
+  Candidate functions are functions with the same name as the called function. Viable functions are candidate functions with both the matching number and type of the arguments in the function call.
+ */

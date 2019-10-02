@@ -1,0 +1,6 @@
+/*
+  a. Illegal because too many arguments.
+  b. Legal
+  c. Legal
+  d. Legal
+ */

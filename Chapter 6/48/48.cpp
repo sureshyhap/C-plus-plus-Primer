@@ -1,0 +1,3 @@
+/*
+  It checks if thw while condition ended because the matching s was found or if cin read EOF or some end input which would make it return false and signal the assertion.
+ */

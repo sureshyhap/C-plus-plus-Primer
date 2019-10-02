@@ -1,0 +1,3 @@
+/*
+  Not a regular reference because you are not allowed to change the elements of the initializer list. But a const reference is fine because it prevents changing the elements of the list.
+ */

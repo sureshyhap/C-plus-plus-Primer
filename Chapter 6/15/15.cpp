@@ -1,0 +1,3 @@
+/*
+  s is a reference to const because we don't want to make a copy of it (thus it is a reference) but also don't want to change it (thus making it const). Occurs is a plain reference because we want to change its value in the function. Char is not a reference because it will not change and is small so const& is unnecessary. If s was a plain reference things would still work but you have the danger of accidentally changing it even though you don't want to change it. If you made occurs a reference to const it would not be able to be changed so could not hold the number of the character occurences anymore.
+ */
