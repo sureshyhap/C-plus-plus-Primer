@@ -1,0 +1,3 @@
+/*
+  That would be ok since C has a default constructor.
+ */

@@ -1,0 +1,3 @@
+/*
+  No because string is not a literal type.
+ */

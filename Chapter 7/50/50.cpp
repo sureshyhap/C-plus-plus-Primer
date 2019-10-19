@@ -1,0 +1,3 @@
+/*
+  Maybe the constructor that only takes an istream object can be explicit.
+ */

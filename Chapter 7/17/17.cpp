@@ -1,0 +1,4 @@
+/*
+  The only difference is that public is the default access specifier of structs
+  while private is the default access specifier for classes.
+ */

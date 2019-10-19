@@ -1,0 +1,4 @@
+/*
+  Error cannot redefine Type in class. Change its name.
+  
+ */

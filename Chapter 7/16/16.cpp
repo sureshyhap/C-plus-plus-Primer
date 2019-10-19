@@ -1,0 +1,5 @@
+/*
+  There are no constraints on where or how often an access specifier may appear.
+  Members that are part of the interface should be public. Members that are a part
+  of the implementation should be private.
+ */

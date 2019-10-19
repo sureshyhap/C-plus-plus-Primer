@@ -1,0 +1,4 @@
+/*
+  The constructors and the getter member functions should be public.
+  The data members should be private.
+ */

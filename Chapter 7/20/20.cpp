@@ -1,0 +1,6 @@
+/*
+  Friends are useful when you have a function that is not a member function but needs
+  access to private and protected data members of a class. A con is that it does not
+  follow the principle of information hiding which can make things hard to fix if the
+  implementation of a class changes.
+ */

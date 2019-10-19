@@ -1,0 +1,4 @@
+/*
+  You would not be able to chain them because a copy is returned each time
+  instead of the actual object being considered.
+ */

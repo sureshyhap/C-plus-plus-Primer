@@ -1,0 +1,3 @@
+/*
+  Yes because explicit dynamic memory allocation is not used.
+ */

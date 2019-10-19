@@ -1,0 +1,4 @@
+/*
+  No because if a constructor with no arguments is called either one
+  could satisfy the call so it is undefined what to do.
+ */
