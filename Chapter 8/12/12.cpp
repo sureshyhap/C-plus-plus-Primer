@@ -1,0 +1,4 @@
+/*
+  Because there are no variable of built in type. String and vector
+  will be properly constructed.
+ */
