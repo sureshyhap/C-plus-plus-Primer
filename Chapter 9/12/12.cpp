@@ -1,0 +1,3 @@
+/*
+  The constructor that takes a container must be of the same type of container and have elements of the same type as the new containter. The constructor that takes two iterators can take iterators to a different type of container and the elements can even have different types as long as there is a way to convert the type of the copied container to the type of the elements of the new container
+ */
